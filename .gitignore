@@ -102,3 +102,6 @@ dist
 
 # TernJS port file
 .tern-port
+
+# Google Cloud Datastore Key File
+portfolio-vereggem-a88ab2e206d3.json
